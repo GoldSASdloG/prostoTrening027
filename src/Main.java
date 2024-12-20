@@ -31,7 +31,7 @@ public class Main {
         } else {
                     System.out.println("Введенная строка не является ФИО");
         }
-        
+
 
         System.out.println("Введите ФИО:");
         String input2 = new Scanner(System.in).nextLine().trim();
